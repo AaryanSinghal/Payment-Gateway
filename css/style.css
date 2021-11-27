@@ -1,0 +1,78 @@
+body {
+    background-color: white;
+}
+
+.left-box {
+    width: 100px;
+    height: 100px;
+    background-color: #138f42;
+    text-align: center;
+}
+
+.left-box .fa,
+.left-box .fab {
+    font-size: 50px;
+    line-height: 100px;
+    color: #FFF;
+}
+
+.right-box {
+    width: auto;
+    height: 100px;
+    padding: 7px;
+}
+
+.right-box h3 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 2.8em;
+    font-weight: 300;
+}
+
+.right-box p {
+    margin: 0;
+    padding: 0;
+}
+
+.map {
+    padding: 10px;
+    text-align: center;
+    background-color: #F2ECFF;
+}
+
+.map h3 {
+    font-size: 1em;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.events {
+    background-color: #F2ECFF;
+}
+
+.events h3,
+.information h3 {
+    font-size: 1.4em;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.megistrate {
+    text-align: center;
+    line-height: 10px;
+}
+
+.megistrate h3 {
+    font-size: 1.2em;
+}
+
+.footer ul {
+    list-style: none;
+    color: white;
+    display: flex;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: white;
+}
